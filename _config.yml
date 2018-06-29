@@ -1,0 +1,15 @@
+# 网站设置
+title: 李迟的个人主页
+subtitle: 认真努力，为将来打拼一个美好未来。
+name: 李迟 # 姓名
+email: li@latelee.org # 邮箱
+description: >
+    这是李迟的个人主页"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://lierch.github.io/" # the base hostname & protocol for your site
+
+skillstree: true # 是否显示技能树
+
+# Build settings
+permalink: none
+markdown: kramdown
